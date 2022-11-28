@@ -1,0 +1,87 @@
+.cal{
+    width: 300px;
+    height: 450px;
+    background-color: black;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+#screen{
+    width: 280px;
+    height: 30px;
+    font-size: 20px;
+    font-style: bold;
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 7.5px;
+    margin-top: 20px;
+    pointer-events: none;
+    background-color: rgb(31, 26, 26);
+    color: #fff;
+    text-align: right;
+    
+    }
+    
+    .btn{
+        width: 45px;
+        height: 45px;
+        margin-left: 22px;
+       align-items: center;
+        margin-top: 30px;
+        align-items: center;
+        border-radius: 50%;
+        background-color: rgb(44, 43, 43);
+        color: #fff;
+        font-size: 20px;
+        cursor: pointer;
+
+        
+    }
+    .btn:hover{
+       background-color:  rgb(90, 89, 89);
+    }
+    .AC{
+        background-color:darkgray;
+        width: 45px;
+        height: 45px;
+        margin-left: 22px;
+       align-items: center;
+        margin-top: 20px;
+        align-items: center;
+        border-radius: 50%;
+        cursor: pointer;
+    }
+    .AC:hover{
+        background-color:  rgb(212, 205, 205);
+    }
+    .oparator{
+        background-color:orange;
+        width: 45px;
+        height: 45px;
+        margin-left: 22px;
+       align-items: center;
+        margin-top: 20px;
+        align-items: center;
+        border-radius: 50%;
+        cursor: pointer;
+    }
+    .oparator:hover{
+       background-color:  rgb(247, 218, 164);
+    }
+
+    .zero{
+        width: 115px;
+        height: 50px;
+        margin-left: 22px;
+       align-items: center;
+        margin-top: 30px;
+        align-items: center;
+        border-radius:24px;
+        background-color: rgb(44, 43, 43);
+        color: #fff;
+        font-size: 20px;
+        cursor: pointer;
+
+    }
+    .zero:hover{
+        background-color: rgb(90, 89, 89);
+    }
+    
